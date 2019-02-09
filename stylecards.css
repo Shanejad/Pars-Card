@@ -1,0 +1,48 @@
+img{
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: navy;
+}
+
+.container{
+    background-color: navy;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.card{
+border-color: #027B7B
+}
+.card-img-top{
+    border-radius: 0px;
+    
+}
+
+.btn{
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: lightgray;
+    border-color: navy;
+    color: navy;
+}
+
+.btn:hover{
+    background-color: gray;
+    color: navy;
+}
+
+
+.div1 {
+    width: 30 rem;
+    height: 80px;
+   background-color: #027B7B; opacity: 76%;
+    box-sizing: border-box;
+    padding: 20px
+  }
+
+  
+
+
+
+
